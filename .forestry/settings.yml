@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/assets
   label: 'Imagery '
-  match: "**/*"
 upload_dir: content/assets
 public_path: "/content/assets"
 front_matter_path: ''
