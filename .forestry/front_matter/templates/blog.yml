@@ -25,7 +25,7 @@ fields:
   type: tag_list
   default: []
   label: Tags
-- name: post_content
+- name: content
   type: textarea
   default: ''
   config:
@@ -33,4 +33,4 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Post content
+  label: content
