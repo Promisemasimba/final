@@ -16,3 +16,21 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: post_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Post content
