@@ -11,6 +11,7 @@ sections:
   match: "**/*"
   templates:
   - blog
+  - images
 upload_dir: content/assets
 public_path: "/content/assets"
 front_matter_path: ''
