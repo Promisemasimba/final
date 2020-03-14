@@ -8,13 +8,6 @@ sections:
   path: content/assets
   label: 'Imagery '
   match: "**/*"
-- type: directory
-  path: content/assets
-  label: Images
-  create: documents
-  match: "**/*"
-  templates:
-  - images
 upload_dir: content/assets
 public_path: "/content/assets"
 front_matter_path: ''
