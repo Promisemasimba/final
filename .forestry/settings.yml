@@ -9,6 +9,8 @@ sections:
   label: Images
   create: documents
   match: "**/*"
+  templates:
+  - image
 upload_dir: 'assets '
 public_path: content/assets
 front_matter_path: ''
