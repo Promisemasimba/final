@@ -3,10 +3,7 @@ new_page_extension: md
 auto_deploy: false
 admin_path: "/"
 webhook_url: 
-sections:
-- type: document
-  path: content/assets
-  label: 'Imagery '
+sections: 
 upload_dir: content/assets
 public_path: "/content/assets"
 front_matter_path: ''
