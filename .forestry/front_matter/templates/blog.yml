@@ -34,5 +34,3 @@ fields:
     schema:
       format: markdown
   label: content
-pages:
-- content/blog/its-all-blue/masimba.md
