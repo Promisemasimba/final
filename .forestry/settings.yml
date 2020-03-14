@@ -11,8 +11,8 @@ sections:
   match: "**/*"
   templates:
   - images
-upload_dir: 'assets '
-public_path: content/assets
+upload_dir: assets
+public_path: content
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
