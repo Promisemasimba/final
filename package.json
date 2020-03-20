@@ -47,7 +47,7 @@
     "prettier": "^1.17.0",
     "pretty-quick": "^1.10.0"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/Promisemasimba/final#readme",
   "keywords": [
     "gatsby",
     "ghost",
@@ -59,7 +59,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ImedAdel/gatsby-london.git"
+    "url": "git+https://github.com/Promisemasimba/final.git"
   },
   "scripts": {
     "build": "gatsby build",
